@@ -1,4 +1,4 @@
-# OCR-picture-character-recognition
+# OCR-image-character-recognition
 
 Extracting characters from image using Multi-Scale Morphology segmentation, Maximally stable extremal regions and OCR
 
